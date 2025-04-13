@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.font-jakarta {
+  font-family: var(--font-jakarta);
+}
+
+.font-manrope {
+  font-family: var(--font-manrope);
+}

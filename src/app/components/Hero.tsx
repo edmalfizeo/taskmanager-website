@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="flex flex-col justify-center min-h-screen px-4"
+      className="flex flex-col justify-center min-h-screen px-4 font-jakarta"
     >
       <div className="flex flex-col-reverse md:flex-row items-center text-center gap-10 max-w-7xl mx-auto">
         <div className="flex flex-col gap-5 text-center md:text-left">
@@ -13,7 +13,7 @@ export default function Hero() {
             Management <br />
             Boosts <br /> Productivity
           </h1>
-          <h3 className="text-lg md:text-xl">
+          <h3 className="text-lg md:text-xl font-manrope">
             By adopting effective strategies and tools, you can simplify your
             workflow, making it easier to stay organized and achieve your goals
             efficiently.

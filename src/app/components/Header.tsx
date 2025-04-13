@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Header() {
   return (
-    <header className="w-full flex justify-between items-center shadow-md px-6 py-4">
+    <header className="w-full flex justify-between items-center shadow-md px-6 py-4 font-jakarta">
       {/* Centro em mobile, normal em telas maiores */}
       <div className="flex items-center space-x-2 mx-auto md:mx-0">
         <Image src="/icons/logo.svg" alt="Logo" width={40} height={40} />
