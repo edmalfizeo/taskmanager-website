@@ -48,16 +48,16 @@ export default function Hero() {
 
       <div className="flex  mt-10 md:mt-20 gap-10 items-center justify-center">
         <div>
-          <h2 className="font-bold text-3xl md:text-5xl">20K+</h2>
-          <h3 className="text-base md:text-2xl">Downloads</h3>
+          <h2 className="font-bold text-xl md:text-3xl">20K+</h2>
+          <h3 className="text-sm md:text-lg">Downloads</h3>
         </div>
         <div>
-          <h2 className="font-bold text-3xl md:text-5xl">4.4K</h2>
-          <h3 className="text-base md:text-2xl">Over Rating</h3>
+          <h2 className="font-bold text-xl md:text-3xl">4.4K</h2>
+          <h3 className="text-sm md:text-lg">Over Rating</h3>
         </div>
         <div>
-          <h2 className="font-bold text-3xl md:text-5xl">15K</h2>
-          <h3 className="text-base md:text-2xl">Active Users</h3>
+          <h2 className="font-bold text-xl md:text-3xl">15K</h2>
+          <h3 className="text-sm md:text-lg">Active Users</h3>
         </div>
       </div>
     </section>
