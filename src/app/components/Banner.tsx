@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function Banner() {
   return (
-    <section className="bg-[#00e19b] py-6 mt-10">
-      <div className="max-w-6xl mx-auto px-4 py-1">
+    <section className="bg-[#00e19b] py-6 mt-10 md:-mt-17">
+      <div className="max-w-6xl mx-auto px-4 ">
         <div
           className="flex flex-nowrap md:flex-wrap justify-start md:justify-between items-center gap-6 
                      overflow-x-auto md:overflow-visible 

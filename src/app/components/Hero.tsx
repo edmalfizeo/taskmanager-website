@@ -42,7 +42,7 @@ export default function Hero() {
           alt="Hero Image"
           width={550}
           height={550}
-          className="rounded-lg"
+          className="rounded-lg md:-mt-10"
         />
       </div>
 
