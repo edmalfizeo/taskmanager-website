@@ -5,6 +5,7 @@ import AboutApp from "./components/AboutApp";
 import Testimonials from "./components/Testimonials";
 import DownloadApp from "./components/DowloadApp";
 import Footer from "./components/Footer";
+import Copyright from "./components/Copyright";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
         <Testimonials />
         <DownloadApp />
         <Footer />
+        <Copyright />
       </main>
     </div>
   );
