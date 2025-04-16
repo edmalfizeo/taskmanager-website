@@ -4,6 +4,7 @@ import Banner from "./components/Banner";
 import AboutApp from "./components/AboutApp";
 import Testimonials from "./components/Testimonials";
 import DownloadApp from "./components/DowloadApp";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         <AboutApp />
         <Testimonials />
         <DownloadApp />
+        <Footer />
       </main>
     </div>
   );
