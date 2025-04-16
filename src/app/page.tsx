@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Banner from "./components/Banner";
 import AboutApp from "./components/AboutApp";
 import Testimonials from "./components/Testimonials";
+import DownloadApp from "./components/DowloadApp";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <Banner />
         <AboutApp />
         <Testimonials />
+        <DownloadApp />
       </main>
     </div>
   );
